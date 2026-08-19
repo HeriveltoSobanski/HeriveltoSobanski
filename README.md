@@ -1,4 +1,4 @@
-# Hi, I'm Herivelto Sobanski 👋
+# Hi, I'm Herivelto Sobanski 
 
 **Developer focused on backend, security, and infrastructure.**
 I work on academic and personal projects involving databases, authentication, containers, and cloud.
