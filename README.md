@@ -1,7 +1,6 @@
 # Hi, I'm Herivelto Sobanski
 
-**Fullstack developer.**
-I build academic and personal projects involving databases, authentication, containers, and cloud infrastructure.
+**Fullstack developer.** I build academic and personal projects involving databases, authentication, containers, and cloud infrastructure.
 
 ---
 
@@ -19,9 +18,13 @@ I work across the full stack, mostly on **databases, security, and backend archi
 
 ## Projects
 
-### auth-app-api
-Authentication API deployed on Kubernetes (k3s) on AWS EC2 with Nginx Ingress.
-**Repo:** [github.com/HeriveltoSobanski/auth-app-api](https://github.com/HeriveltoSobanski/auth-app-api)
+### Smarty Entregas
+Commercial delivery platform (iFood-style), covering ordering, payments, and logistics end-to-end.
+Repo: [github.com/HeriveltoSobanski/smarty-entregas](https://github.com/HeriveltoSobanski/smarty-entregas)
+
+### flutter-auth-k8s
+Full-stack authentication API (Flutter + Dart backend) deployed on Kubernetes (k3s) on AWS EC2 with Nginx Ingress.
+Repo: [github.com/HeriveltoSobanski/flutter-auth-k8s](https://github.com/HeriveltoSobanski/flutter-auth-k8s)
 
 ### Kubernetes Infrastructure on AWS
 Co-authored a technical paper on container-based infrastructure — deployed a full application (frontend, backend, PostgreSQL, Redis) on k3s over AWS EC2.
@@ -31,10 +34,10 @@ Academic chatbot with a fallback chain across multiple AI providers (Gemini → 
 
 ### Tabu — Voice-Controlled Monitoring
 Flutter app for environmental monitoring and voice-controlled lighting, integrated with an ESP32 device.
-**Repo:** [github.com/HeriveltoSobanski/tabu](https://github.com/HeriveltoSobanski/tabu)
+Repo: [github.com/HeriveltoSobanski/tabu](https://github.com/HeriveltoSobanski/tabu)
 
 ---
 
 ## Contact
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](https://linkedin.com/in/SEU-USUARIO) · [Email](mailto:seuemail@exemplo.com)
